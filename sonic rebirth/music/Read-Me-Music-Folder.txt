@@ -1,0 +1,11 @@
+Sonic Rebirth - Music Folder
+
+
+- To Play the game with Ogg music, you must download them in the host
+ site (http://www.powersonic.com.br/rebirth). 
+
+And extract the music folder here
+
+- If you move the files or rename them, those won't play in the game,
+ causing some bugs. Please don't touch them, unless you know what you're doing.
+
